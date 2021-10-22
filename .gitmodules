@@ -1,0 +1,3 @@
+[submodule "licensing-service"]
+	path = licensing-service
+	url = git@github.com:denglitong/licensing-service.git
