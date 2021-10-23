@@ -1,3 +1,9 @@
 [submodule "licensing-service"]
 	path = licensing-service
 	url = git@github.com:denglitong/licensing-service.git
+[submodule "config-repo"]
+	path = config-repo
+	url = git@github.com:denglitong/config-repo.git
+[submodule "configuration-service"]
+	path = configuration-service
+	url = git@github.com:denglitong/configuration-service.git
