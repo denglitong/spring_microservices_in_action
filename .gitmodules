@@ -10,3 +10,6 @@
 [submodule "eureka-service"]
 	path = eureka-service
 	url = git@github.com:denglitong/eureka-service.git
+[submodule "organization-service"]
+	path = organization-service
+	url = git@github.com:denglitong/organization-service.git
