@@ -7,3 +7,6 @@
 [submodule "configuration-service"]
 	path = configuration-service
 	url = git@github.com:denglitong/configuration-service.git
+[submodule "eureka-service"]
+	path = eureka-service
+	url = git@github.com:denglitong/eureka-service.git
