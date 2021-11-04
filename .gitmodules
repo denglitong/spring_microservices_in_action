@@ -13,3 +13,12 @@
 [submodule "organization-service"]
 	path = organization-service
 	url = git@github.com:denglitong/organization-service.git
+[submodule "zuul-service"]
+	path = zuul-service
+	url = git@github.com:denglitong/zuul-service.git
+[submodule "organization-service-new"]
+	path = organization-service-new
+	url = git@github.com:denglitong/organization-service-new.git
+[submodule "specialroutes-service"]
+	path = specialroutes-service
+	url = git@github.com:denglitong/specialroutes-service.git
