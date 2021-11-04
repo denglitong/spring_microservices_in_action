@@ -22,3 +22,6 @@
 [submodule "specialroutes-service"]
 	path = specialroutes-service
 	url = git@github.com:denglitong/specialroutes-service.git
+[submodule "samples/spmia-chapter7"]
+	path = samples/spmia-chapter7
+	url = https://github.com/carnellj/spmia-chapter7.git
