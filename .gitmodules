@@ -25,3 +25,24 @@
 [submodule "samples/spmia-chapter7"]
 	path = samples/spmia-chapter7
 	url = https://github.com/carnellj/spmia-chapter7.git
+[submodule "samples/spmia-chapter2"]
+	path = samples/spmia-chapter2
+	url = https://github.com/carnellj/spmia-chapter2.git
+[submodule "samples/spmia-chapter3"]
+	path = samples/spmia-chapter3
+	url = https://github.com/carnellj/spmia-chapter3.git
+[submodule "samples/spmia-chapter4"]
+	path = samples/spmia-chapter4
+	url = https://github.com/carnellj/spmia-chapter4.git
+[submodule "samples/spmia-chapter5"]
+	path = samples/spmia-chapter5
+	url = https://github.com/carnellj/spmia-chapter5.git
+[submodule "samples/spmia-chapter6"]
+	path = samples/spmia-chapter6
+	url = https://github.com/carnellj/spmia-chapter6.git
+[submodule "samples/spmia-chapter8"]
+	path = samples/spmia-chapter8
+	url = https://github.com/carnellj/spmia-chapter8.git
+[submodule "samples/spmia-chapter9"]
+	path = samples/spmia-chapter9
+	url = https://github.com/carnellj/spmia-chapter9.git
