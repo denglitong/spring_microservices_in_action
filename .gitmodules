@@ -46,3 +46,6 @@
 [submodule "samples/spmia-chapter9"]
 	path = samples/spmia-chapter9
 	url = https://github.com/carnellj/spmia-chapter9.git
+[submodule "authentication-service"]
+	path = authentication-service
+	url = git@github.com:denglitong/authentication-service.git

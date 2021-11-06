@@ -144,4 +144,11 @@ Zuul过滤器可以按照与J2EE servlet过滤器或Spring Aspect类似的方式
 
 ![](./resources/P-6-13.png)
 
-![](./resources/P-Zuul-Tracking-ID.png)
+
+## 7. 保护微服务
+
+OAuth2是一个基于令牌的安全验证和授权框架，它将安全性分解为4个部分：受保护资源、资源所有者、应用程序、OAuth2验证服务器。
+
+![](./resources/P-OAuth2.png)
+
+![](./resources/P-OAuth2-Tracking.png)
