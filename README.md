@@ -152,3 +152,15 @@ OAuth2是一个基于令牌的安全验证和授权框架，它将安全性分�
 ![](./resources/P-OAuth2.png)
 
 ![](./resources/P-OAuth2-Tracking.png)
+
+## 8. 使用Spring Cloud Stream的事件驱动架构
+
+![](./resources/P-8-2.png)
+
+Spring Cloud Stream可以轻松地将消息传递集成到基于Spring的微服务中，它是一个由注解驱动的框架，允许开发人员在Spring应用程序中轻松地构建消息发布者和消费者；还允许开发人员抽象出正在使用的消息传递平台的实现细节，在应用程序中实现消息发布和消费是通过平台无关的Spring接口实现的。
+
+Spring Cloud Stream架构：
+
+![](./resources/P-8-3.png)
+
+通道（channel）是对队列（queue）的一个抽象，它将在消息生产者发布或消费者消费消息后保留该消息。channel始终与queue相关联，但queue不会直接暴露给代码，相反channel名称会在代码中使用，这使得可以更改channel配置关联的queue而不需要更改代码。
